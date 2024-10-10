@@ -1,7 +1,7 @@
 # Prakhar Prasun Blogs
 
-## blog-starter
-This is built using existing [blog-starter](https://github.com/vercel/next.js/tree/canary/examples/blog-starter) plus TypeScript from **Vercel** .
+## Template
+This is built using Next.js 's [blog-starter](https://github.com/vercel/next.js/tree/canary/examples/blog-starter) template plus TypeScript from **Vercel** .
 
 This project showcases Next.js's [Static Generation](https://nextjs.org/docs/app/building-your-application/routing/layouts-and-templates) feature using Markdown files as the data source.
 
