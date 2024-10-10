@@ -1,7 +1,7 @@
 ---
 title: "Meet: Prakhar Prasun"
 excerpt: "Meet: Prakhar Prasun"
-date: "2024-09-24T05:35:07.322Z"
+date: "2024-09-23T05:35:07.322Z"
 author:
   name: Prakhar Prasun
   picture: ""

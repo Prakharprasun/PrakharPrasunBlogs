@@ -2,7 +2,7 @@
 title: "Enter: Codeforces"
 excerpt: "Intro to Codeforces"
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2020-03-16T05:35:07.322Z"
+date: "2024-09-24T05:35:07.322Z"
 author:
   name: Prakhar Prasun
   picture: "/assets/blog/authors/jj.jpeg"
@@ -10,7 +10,8 @@ ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
 
-“Codeforces' aim is to offer you a convenient platform to organize, run and discuss programming contests. It will be a bit of a social network website, more than a news portal and more than an online judge. Being absolutely independent from me, you will be able to organize and run a contest. You will decide on your own if to make it open to the whole world or if it will be a contest for your University only. And if you're not interested in this, you might discuss the news in the contest world - read/write blogs, discuss topics, and support your dearest and nearest.”
+### “Codeforces' aim is to offer you a convenient platform to organize, run and discuss programming contests. It will be a bit of a social network website, more than a news portal and more than an online judge. Being absolutely independent from me, you will be able to organize and run a contest. You will decide on your own if to make it open to the whole world or if it will be a contest for your University only. And if you're not interested in this, you might discuss the news in the contest world - read/write blogs, discuss topics, and support your dearest and nearest.”
+
 -Mike Mirzayanov, founder and CEO of Codeforces
 
 Codeforces is a popular platform for competitive programming. It's known for its contests and community interactions through blogs and discussions. Contests are divided into several divisions: Division 4 is the least difficult, and Division 1 is the most challenging. Problems are labeled with letters (A, B, C, etc.) to show increasing difficulty and are given numerical ratings to show their complexity. Participants can use various programming languages supported by the platform to solve these problems by either uploading a file or pasting their code into the source code section of the submit tab.
@@ -51,10 +52,14 @@ Competitive programming offers many benefits, including potential job opportunit
 
 
 
-References:
+### References:
 
 UT Austin, Classes of Algorithms
+
 USACO guide, Two Pointers · USACO Guide
+
 Geek for Geeks, Frequency Distribution - Definition, Types, Table, Graph, Examples, Compiler vs Interpreter - GeeksforGeeks
+
 W3Schools, Statistics - Frequency Tables
+
 Wikipedia, Integrated development environment - Wikipedia, Prefix sum - Wikipedia
