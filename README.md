@@ -13,6 +13,6 @@ To create the blog posts we use [`remark`](https://github.com/remarkjs/remark) a
 
 Type "npm run dev" into the terminal while in the directory and, your blog should be up and running on [http://localhost:3000](http://localhost:3000)
 
-## Notes
+## CSS
 
-`blog-app` uses [Tailwind CSS](https://tailwindcss.com) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3).
+This Project uses [Tailwind CSS](https://tailwindcss.com) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3).
