@@ -20,17 +20,7 @@ const CoverImage = ({ title, src, slug }: Props) => {
       height={630}
     />
   );
-  return (
-    <div className="sm:mx-0">
-      {slug ? (
-        <Link href={`/posts/${slug}`} aria-label={title}>
-          {image}
-        </Link>
-      ) : (
-        image
-      )}
-    </div>
-  );
+  return;
 };
 
 export default CoverImage;
